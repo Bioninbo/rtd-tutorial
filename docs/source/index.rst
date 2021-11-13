@@ -3,6 +3,8 @@
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   usage
+   api
 
 
 **Welcome to Cactus's documentation!**
