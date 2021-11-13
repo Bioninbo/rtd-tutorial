@@ -1,10 +1,8 @@
 
-.. .. sectnum::
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   :number:
 
 
 **Welcome to Cactus's documentation!**
@@ -49,11 +47,5 @@ Troubleshooting
 
 
 
-
-
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 
